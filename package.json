@@ -119,7 +119,7 @@
     "cldr-data-downloader": "0.3.2",
     "cldrjs": "0.5.0",
     "conventional-changelog": "^2.0.3",
-    "core-js": "^2.4.1",
+    "core-js": "^3.8.3",
     "cors": "2.8.4",
     "entities": "1.1.1",
     "firebase-tools": "5.1.1",
